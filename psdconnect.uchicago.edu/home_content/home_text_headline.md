@@ -1,1 +1,1 @@
-Front door to UChicago CI Connect
+Providing access to high throughput computing resources
