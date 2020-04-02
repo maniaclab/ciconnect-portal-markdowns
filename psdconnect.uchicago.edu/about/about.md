@@ -1,4 +1,3 @@
-## UChicago CI Connect
+## PSD Connect
 
-UChicago CI Connect has been developed for Research Computing Center users to
-facilitate submission to the OSG from Midway.
+A job submission service to distributed high-throughput computing resources, including the Open Science Grid, for researchers of the [Physical Sciences Division](https://psd.uchicago.edu)) of the [University of Chicago](https://www.uchicago.edu/).
