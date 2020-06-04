@@ -1,9 +1,3 @@
-CI Connect provides hosted job submission services for distributed, high-throughput computing.  It's main features:
+The Snowmass Process is organized by the Division of Particles and Fields [DPF](DPF) of the American Physical Society. Snowmass is an opportunity for the entire HEP community to come together to identify and document a vision for the future of particle physics in the U.S. and its international partners.
 
-- A user and group management service to organize collaborations and control access
-- An automated Unix account provisioning service for submit hosts
-- [Globus](https://globus.org) authorization and science portal software
-- [CILogon](https://cilogon.org) to allow researchers to logon using their home institution identity
-- Job submission to distributed resources using [HTCondor](https://research.cs.wisc.edu/htcondor/)
-
-CI Connect can be configured for scientific collaborations, national-scale computing platforms (such as [OSG Connect](http://www.osgconnect.net)), and to augment university research computing environments. 
+We aim for everyone's voice to be heard. Your contributions and participation are critical for the success of Snowmass and they will naturally occur as part of one or more working groups directed by the conveners. There will be various Town Hall meetings for us to communicate with you and to receive your feedback. You are also welcome to provide input and suggestions on the Slack channel [https://snowmass2021.slack.com/](https://snowmass2021.slack.com/). This Snowmass wiki provides news and announcements and has pages dedicated to each frontier. If you are an early career scientist, we encourage you to join the “Snowmass Young” mailing list (snowmass-young@fnal.gov) by emailing to listserv@listserv.fnal.gov with the body of the message “Subscribe snowmass-young YOUR NAME”. Agendas and presentations of all Snowmass-related meetings are available via this [Snowmass Indico link](https://indico.fnal.gov/category/1098/).
