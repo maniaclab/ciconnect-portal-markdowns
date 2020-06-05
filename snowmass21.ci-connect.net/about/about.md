@@ -1,4 +1,1 @@
 Snowmass Connect is a job submission service to the [Open Science Grid](https://www.opensciencegrid.org/) in support of the [Energy Frontier Monte Carlo Task Force working group](https://snowmass21.org/montecarlo/energy).  The Snowmass 2021 process is organized by the [Division of Particles and Fields](https://www.aps.org/units/dpf/) of the American Physical Society. Snowmass is an opportunity for the entire HEP community to come together to identify and document a vision for the future of particle physics in the U.S. and its international partners.  The home website is [https://snowmass21.org/](https://snowmass21.org/).
-
-The `#mctaskforce` channel in the Snowmass Slack is used for questions and technical support: [https://snowmass2021.slack.com/](https://snowmass2021.slack.com/). 
-
