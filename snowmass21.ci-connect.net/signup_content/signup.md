@@ -1,1 +1,1 @@
-Sign Up for SnowMass21 Connect
+Sign Up for Snowmass21 Connect
