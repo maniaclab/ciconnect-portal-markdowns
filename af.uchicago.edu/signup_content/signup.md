@@ -1,1 +1,1 @@
-Sign Up for Atlas Connect
+Sign Up
