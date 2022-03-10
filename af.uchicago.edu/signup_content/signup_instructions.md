@@ -1,1 +1,5 @@
-To create an account, you can use your home organization login or your CERN login. Click Continue below.
+To create an account, you can use your institutional ID (preferred), or your CERN ID.
+
+Your request will be sent to the ATLAS Analysis Facility Support Team.
+
+Click Continue below.
