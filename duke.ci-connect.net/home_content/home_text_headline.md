@@ -1,1 +1,1 @@
-Duke CI Connect services have supercedeed by [OSG Connect](https://www.osgconnect.net).  Support is available at [https://portal.osg-htc.org](https://portal.osg-htc.org) and [support@osg-htc.org](support@osg-htc.org)
+Duke CI Connect services have supercedeed by [OSG Connect](https://www.osgconnect.net).  Support is available at [https://portal.osg-htc.org](https://portal.osg-htc.org) and support@osg-htc.org
