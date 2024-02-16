@@ -1,5 +1,5 @@
 ## Duke CI Connect
 
-Duke CI Connect offers investigators access to distributed high throughput 
-computing resources from the Scalable Computing Support Center and from the 
-Open Science Grid. 
+Starting from 2013, Duke CI Connect provided investigators with access to the
+OSG's OS Pool. However, this service was discontinued in October 2023, as it
+was replaced by OSG Connect.
