@@ -1,3 +1,5 @@
 ## ATLAS Connect
 
-ATLAS Connect offers [ATLAS researchers](https://atlas.cern/discover/collaboration) access to high-throughput computing resources from various opportunistic sources in the U.S.  A login host, `login.usatlas.org`, provides a HTCondor job submission service.  The service is *not* an official part of the US ATLAS Computing Facility and is offered on a best-effort basis by the [ATLAS group](https://hep.uchicago.edu/atlas/) at the University of Chicago.
+Starting in 2013, ATLAS Connect provided physicists with Tier3-like access to
+HTCondor batch resources. In 2022 it was replaced by the UChicago Shared Tier3
+/ Analysis Facility, [https://af.uchicago.edu/](https://af.uchicago.edu/)
